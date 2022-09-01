@@ -1,1 +1,5 @@
-DBCpnexion.txt
+//.env
+.env
+
+//mongoDB 
+DBConexion.txt
