@@ -1,0 +1,5 @@
+//env
+.env
+
+//mongodb conexions
+DBConexion.txt
